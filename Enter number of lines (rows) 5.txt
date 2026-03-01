@@ -1,0 +1,9 @@
+Enter number of lines (rows): 5
+Enter number of stars per line: 4
+****
+****
+****
+****
+****
+
+--------------------------------
